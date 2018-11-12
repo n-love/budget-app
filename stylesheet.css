@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://source.unsplash.com/aHhhdKUP77M);
+}
+
+nav {
+
+}
+
+.user-input-form {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.data-visual {
+  float: right;
+}
